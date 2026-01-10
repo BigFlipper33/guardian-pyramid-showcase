@@ -50,6 +50,24 @@ The system integrates multiple subsystems into a cohesive embedded experience.
 **Rear I/O and antenna**
 ![Rear I/O](images/guardian-pyramid-rear-io.JPG)
 
+## System Behavior
+
+The **Guardian Pyramid** is an interactive kinetic light sculpture driven by a **state-based firmware architecture**. On power-up, the system initializes directly into **Guardian Mode**, presenting a calm, watchful baseline behavior.
+
+A **PIR sensor** monitors nearby motion. When presence is detected during Guardian Mode, the system enters an **alert behavior** within that same mode: the LED patterns and central eye expression shift once per second for as long as motion persists. This alert does not automatically change modes, preserving user agency.
+
+A **physical button** allows the user to acknowledge the alert and transition the system into **Alien Mode**.
+
+Upon entering Alien Mode, the device performs a **rainbow-style LED build animation** and becomes presence-aware. While motion is detected, the system behaves as if being observed. After approximately **seven seconds without detected motion**, the system transitions into **autonomous, non-repeating eye movements**, creating the impression of independent activity.
+
+While in Alien Mode, the button cycles through three distinct LED sub-modes, each with a unique visual rhythm and expressive character:
+
+- **Fin Drift**
+- **Tri-Band Elastic Spin**
+- **Veil Drift — Meteor**
+
+At all times, **sensor input influences behavioral state rather than directly driving hardware**. This separation ensures smooth transitions, prevents abrupt or jittery motion, and maintains a cohesive interaction experience where motion and light communicate intent rather than raw sensor data.
+
 
 ## Core Features
 
