@@ -42,13 +42,13 @@ The system integrates multiple subsystems into a cohesive embedded experience.
 ## Guardian Pyramid — Physical Overview
 
 **Front view**
-![Front view](images/guardian-pyramid-front.jpg)
+![Front view](images/guardian-pyramid-front.JPG)
 
 **Side profile**
-![Side profile](images/guardian-pyramid-side.jpg)
+![Side profile](images/guardian-pyramid-side.JPG)
 
 **Rear I/O and antenna**
-![Rear I/O](images/guardian-pyramid-rear-io.jpg)
+![Rear I/O](images/guardian-pyramid-rear-io.JPG)
 
 
 ## Core Features
