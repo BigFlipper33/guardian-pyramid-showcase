@@ -1,7 +1,11 @@
 # guardian-pyramid-showcase
 Proprietary embedded systems showcase for Guardian Pyramid, an interactive ESP32-S3–based device featuring mode-driven firmware architecture, real-time motion and LED control, and reliability-focused design. This repository documents system behavior and engineering decisions without exposing source code.
 
-# Guardian Pyramid  
+![Guardian Pyramid](images/guardian-pyramid-hero.jpg) 
+**Guardian Pyramid**  
+Interactive consciousness object  
+Built with SAHM.ai · Quantum Grove
+
 **Embedded Interactive System — Firmware Showcase (Proprietary)**
 
 ---
@@ -34,6 +38,18 @@ The product is intentionally constrained to avoid unnecessary complexity.
 The system integrates multiple subsystems into a cohesive embedded experience.
 
 ---
+
+## Guardian Pyramid — Physical Overview
+
+**Front view**
+![Front view](images/guardian-pyramid-front.jpg)
+
+**Side profile**
+![Side profile](images/guardian-pyramid-side.jpg)
+
+**Rear I/O and antenna**
+![Rear I/O](images/guardian-pyramid-rear-io.jpg)
+
 
 ## Core Features
 
